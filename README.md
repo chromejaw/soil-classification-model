@@ -5,10 +5,6 @@ NOTE : SOIL-CLASSIFICATION-MODEL.IPYNB CONTAINS THE CODE FOR BOTH TRAINING AND I
 ```
 A high-performance deep learning model for classifying soil types from images with 95%+ F1 score.
 
-
-https://github.com/user-attachments/assets/ed17539c-5570-4c8a-864c-787401751bf2
-
-
 ## 📋 Overview
 
 This project uses computer vision to classify soil samples into four categories:
