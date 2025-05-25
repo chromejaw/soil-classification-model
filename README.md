@@ -67,16 +67,6 @@ The model achieves:
 - **High Accuracy** across all soil types
 - **Robust Generalization** to unseen images
 
-## 🚀 Quick Start
-
-```python
-# Train models
-python train.py
-
-# Generate predictions
-python predict.py --input /path/to/test/images --output predictions.csv
-```
-
 ## 📝 Code Structure
 
 1. **Cell 1**: Libraries and dependencies
