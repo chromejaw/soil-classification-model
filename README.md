@@ -30,7 +30,7 @@ The dataset contains:
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/soil-classification.git
+git clone https://github.com/punkkkkkkk/soil-classification-model_annam.git
 
 # Install dependencies
 pip install torch torchvision albumentations pandas scikit-learn pillow tqdm ranger-adabelief
@@ -134,7 +134,7 @@ train_labels.csv # CSV with image_id and soil_type columns
 ### Running the Model
 
 #### Using Jupyter Notebook
-1. Open `soil-classification-model.ipynb` in Jupyter
+1. Open `soil-classification-model_annam.ipynb` in Jupyter
 2. Execute cells sequentially
 3. Modify parameters in cell 6 to adjust training (epochs, batch size, etc.)
 4. The final cell will generate `submission.csv` with predictions
